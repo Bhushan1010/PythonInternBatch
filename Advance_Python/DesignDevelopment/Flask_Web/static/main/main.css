@@ -1,0 +1,33 @@
+.nav{
+      text-align: right;
+      right: 0px;
+      top:0px;
+      float: right;
+      font-size: x-large;
+      font-family: monospace;
+    }
+span {
+  border: 3px;
+  background-color: gray;
+}
+h1 {
+  color:red;
+}
+h2 {
+color:green;
+}
+h3 {
+  color:blue;
+}
+h4 {
+    color:#abcdef;
+  }
+h5 {
+color:pink;
+}
+h6 {
+color:yellow;
+}
+p {
+color:orange;
+}
